@@ -10,4 +10,4 @@ Together, we can equalify the internet.
 
 ## Want to know more?
 
-Checkout our [Equalify's handbook](https://github.com/EqualifyApp/handbook).
+Checkout [Equalify's handbook](https://github.com/EqualifyApp/handbook).

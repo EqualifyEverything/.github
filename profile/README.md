@@ -1,8 +1,6 @@
 ## Equalify the web!
 **96.8% of home pages have WCAG conformance failures.[^1]** Failing WCAG conformance means countless people with disabilities do not have equal access to the internet.
 
-"Equalify" means fixing problems with an accessibility-first mindset.
-
 We aim to make websites more accessible by building an affordable and easy-to-use platform that integrates your favorite accessibility web services. The core of our work is published under the AGPL on the [Core Equalify repo](http://github.com/EqualifyWverything/equalify). Working in the open helps us create the most accessible platform for internet accessibility.
 
 ## Ready to try Equalify now?

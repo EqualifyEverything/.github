@@ -4,7 +4,7 @@
 We aim to make websites more accessible by building an easy-to-use platform that integrates your favorite accessibility web services. The core of our work is published under the AGPL on the [Core Equalify repo](http://github.com/EqualifyWverything/equalify). Working in the open helps us create the most accessible platform for internet accessibility.
 
 ## Ready to try Equalify now?
-Equalify offers a managed service at https://equalify.app. We're inviting a limited number of users to try the service, so apply today!
+Visit https://equalify.app to try Equalify and support our community-led Open Source work
 
 Together, we can equalify the internet.
 

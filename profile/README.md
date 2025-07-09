@@ -1,10 +1,10 @@
 ## Equalify the web!
 **96.8% of home pages have WCAG conformance failures.[^1]** Failing WCAG conformance means countless people with disabilities do not have equal access to the internet.
 
-We aim to make websites more accessible by building an easy-to-use platform that integrates your favorite accessibility web services. The core of our work is published under the AGPL on the [Core Equalify repo](http://github.com/EqualifyEverything/equalify). Working in the open helps us create the most accessible platform for internet accessibility.
+We aim to make websites more accessible by building an easy-to-use platform that integrates your favorite accessibility web services. All our work is published under Open Source licenses.  Working in the open helps us create the most accessible platform for internet accessibility.
 
-## Ready to try Equalify now?
-Visit https://equalify.app to try Equalify and support our community-led Open Source work
+## Ready to try Equalify?
+Visit the [core Equalify repo](http://github.com/EqualifyEverything/equalify) to get started.
 
 Together, we can equalify the internet.
 

@@ -15,7 +15,7 @@ Together, we can equalify the internet.
 Check out [Equalify's handbook](https://github.com/EqualifyApp/handbook).
 
 ## Maintained by University of Illinois Chicago (UIC)
-Equalify is maintained by [UIC Technology Solutions](https://it.uic.edu/). More information and project updates can be found on the [UIC IT Accessibility Engineering page](https://it.uic.edu/accessibility/engineering/).
+Equalify is maintained by [UIC Technology Solutions](https://it.uic.edu/). More information and project updates can be found on the [Equalify Hub](https://equalify.uic.edu/).
 
 [<img src="https://github.com/user-attachments/assets/52c91846-d37b-4428-8bac-07fdc5654d37" width="300px" alt="Logo for UIC">](https://uic.edu/)
 
